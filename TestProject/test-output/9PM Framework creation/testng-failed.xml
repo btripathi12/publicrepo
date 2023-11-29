@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [9PM Framework creation]" guice-stage="DEVELOPMENT">
+  <test name="Bank manager login Test(failed)">
+    <classes>
+      <class name="com.bt.testcases.BankManagerLoginTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="bankMgrLogin"/>
+        </methods>
+      </class> <!-- com.bt.testcases.BankManagerLoginTest -->
+    </classes>
+  </test> <!-- Bank manager login Test(failed) -->
+</suite> <!-- Failed suite [9PM Framework creation] -->
